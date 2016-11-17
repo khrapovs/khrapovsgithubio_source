@@ -129,12 +129,16 @@ html_theme = 'alabaster'
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
+extra_nav_links = {'Home': 'index.html',
+                   'Resume': '_static/Stanislav_Khrapov_CV.pdf'}
+
 html_theme_options = {
     'logo': 'my_portrait.jpg',
     'description': 'Stanislav Khrapov',
     'logo_text_align': 'center',
     'github_user': 'khrapovs',
     'analytics_id': 'UA-17393493-8',
+    'extra_nav_links': extra_nav_links,
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
