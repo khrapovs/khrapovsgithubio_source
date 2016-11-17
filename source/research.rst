@@ -1,13 +1,13 @@
 Research
 ========
 
-Publications:
--------------
+Publications
+------------
 
 * Stanislav Anatolyev and Stanislav Khrapov (2015). `Right on Target, or Is it? The Role of Distributional Shape in Variance Targeting <http://www.mdpi.com/2225-1146/3/3/610>`_. Econometrics, 3(3), pp. 610--632. (`Additional materials <http://is.gd/vartarget>`_, `SSRN <http://ssrn.com/abstract=2653563>`_)
 
-Working papers:
----------------
+Working papers
+--------------
 
 * `Buy Global, Sell Local. Consumption Heterogeneity, Regional Risk-sharing, and the Cross-section of Equity Returns <https://sites.google.com/site/khrapovs/Colacito-Khrapov-2016-Buy-Global.pdf>`_ (with `Riccardo Colacito <http://www.unc.edu/~colacitr/>`_) (`SSRN <https://ssrn.com/abstract=2853104>`_)
 
@@ -24,8 +24,8 @@ Working papers:
 * `Realized Skewness Predicts Jump Variation <https://sites.google.com/site/khrapovs/Buchatskaya-Khrapov-2013-Jumps-Skewness.pdf>`_ (with Elena Buchatskaya)
 
 
-Work in progress:
------------------
+Work in progress
+----------------
 
 * Modeling Vast Dimensional Autoregressive Conditional Density (with `Stanislav Anatolyev <http://pages.nes.ru/sanatoly/>`_ and Andrey Zeleneev)
 
