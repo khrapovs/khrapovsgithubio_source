@@ -5,9 +5,9 @@ My name is Stanislav Khrapov. I am an Assistant Professor of Finance at the `New
 
 Besides that, I am a big fan of Python for scientific computing. Some of the code is publicly available on my `Github repository <https://github.com/khrapovs>`_.
 
-On the personal level I love travel photography. Take a look at my G+ profile if you are interested. Finally, I run and swim a lot. You can join me in this passion on `Strava <https://www.strava.com/athletes/6131284>`_.
+On the personal level I love travel photography. Take a look at my `G+ profile <https://plus.google.com/+StanislavKhrapov>`_ if you are interested. Finally, I run and swim a lot. You can join me in this passion on `Strava <https://www.strava.com/athletes/6131284>`_.
 
-|logo_github| |logo_linkedin| |logo_strava|
+|logo_github| |logo_linkedin| |logo_google| |logo_strava|
 
 
 .. |logo_github| image:: _static/Github-black.svg
@@ -18,10 +18,14 @@ On the personal level I love travel photography. Take a look at my G+ profile if
 	:height: 32px
 	:width: 32px
 	:target: https://www.linkedin.com/in/khrapovs
+.. |logo_google| image:: _static/Google-black.svg
+	:height: 32px
+	:width: 32px
+	:target: https://plus.google.com/+StanislavKhrapov
 .. |logo_strava| image:: _static/Strava.svg
 	:height: 32px
 	:width: 32px
-	:target: https://www.linkedin.com/in/khrapovs
+	:target: https://www.strava.com/athletes/6131284
 
 
 .. toctree::
