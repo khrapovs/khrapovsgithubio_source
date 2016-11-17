@@ -7,9 +7,22 @@ Besides that, I am a big fan of Python for scientific computing. Some of the cod
 
 On the personal level I love travel photography. Take a look at my G+ profile if you are interested. Finally, I run and swim a lot. You can join me in this passion on `Strava <https://www.strava.com/athletes/6131284>`_.
 
-.. image:: _static/GitHub-Mark-32px.png
-	:align: center
+|logo_github| |logo_linkedin| |logo_strava|
+
+
+.. |logo_github| image:: _static/Github-black.svg
+	:height: 32px
+	:width: 32px
 	:target: https://github.com/khrapovs
+.. |logo_linkedin| image:: _static/LinkedIn-black.svg
+	:height: 32px
+	:width: 32px
+	:target: https://www.linkedin.com/in/khrapovs
+.. |logo_strava| image:: _static/Strava.svg
+	:height: 32px
+	:width: 32px
+	:target: https://www.linkedin.com/in/khrapovs
+
 
 .. toctree::
    :hidden:
