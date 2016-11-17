@@ -134,6 +134,7 @@ html_theme_options = {
     'description': 'Stanislav Khrapov',
     'logo_text_align': 'center',
     'github_user': 'khrapovs',
+    'analytics_id': 'UA-17393493-8',
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
