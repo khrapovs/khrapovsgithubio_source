@@ -9,7 +9,7 @@ In the past, as I was working as Assistant Professor of Finance at the `New Econ
 
 On the personal level I run and swim a lot, bike occasionally (no triathlon, please!). You can join me in this passion on `Strava <https://www.strava.com/athletes/6131284>`_.
 
-|logo_github| |logo_linkedin| |logo_google| |logo_strava|
+|logo_github| |logo_linkedin| |logo_strava|
 
 
 .. |logo_github| image:: _static/Github-black.svg
