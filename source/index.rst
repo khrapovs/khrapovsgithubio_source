@@ -20,10 +20,6 @@ On the personal level I run and swim a lot, bike occasionally (no triathlon, ple
 	:height: 32px
 	:width: 32px
 	:target: https://www.linkedin.com/in/khrapovs
-.. |logo_google| image:: _static/Google-black.svg
-	:height: 32px
-	:width: 32px
-	:target: https://plus.google.com/+StanislavKhrapov
 .. |logo_strava| image:: _static/Strava.svg
 	:height: 32px
 	:width: 32px
